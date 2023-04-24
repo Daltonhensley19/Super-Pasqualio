@@ -32,7 +32,7 @@ Group project for CS-312 (Game Prototype Design and Implementation)
  game, much like Mario or Sonic, that aims to parody the popular video
  game/television series The Last of Us. The player’s goal is to reach the end
  of the level, score is calculated by the number of enemies killed, time used,
- and amount of “firefly pendants” collected  
+ and amount of “firefly pendants” collected. 
 
 
 ### Prerequisites if using an Windows
